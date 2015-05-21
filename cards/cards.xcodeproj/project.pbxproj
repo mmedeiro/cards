@@ -15,6 +15,7 @@
 		4BBAB6011B0CF25900BB26C5 /* cardsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BBAB6001B0CF25900BB26C5 /* cardsTests.swift */; };
 		4BBAB60F1B0CFBEB00BB26C5 /* StackedLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BBAB60E1B0CFBEB00BB26C5 /* StackedLayout.swift */; };
 		4BF78BC31B0E4B280028FA12 /* ExposedLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF78BC21B0E4B280028FA12 /* ExposedLayout.swift */; };
+		4BF78BC71B0E7B650028FA12 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF78BC61B0E7B650028FA12 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		4BBAB6001B0CF25900BB26C5 /* cardsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cardsTests.swift; sourceTree = "<group>"; };
 		4BBAB60E1B0CFBEB00BB26C5 /* StackedLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StackedLayout.swift; sourceTree = "<group>"; };
 		4BF78BC21B0E4B280028FA12 /* ExposedLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExposedLayout.swift; sourceTree = "<group>"; };
+		4BF78BC61B0E7B650028FA12 /* CollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				4BBAB5EA1B0CF25900BB26C5 /* AppDelegate.swift */,
 				4BBAB5EC1B0CF25900BB26C5 /* ViewController.swift */,
 				4BBAB5EE1B0CF25900BB26C5 /* Main.storyboard */,
+				4BF78BC61B0E7B650028FA12 /* CollectionViewCell.swift */,
 				4BBAB60E1B0CFBEB00BB26C5 /* StackedLayout.swift */,
 				4BF78BC21B0E4B280028FA12 /* ExposedLayout.swift */,
 				4BBAB5F11B0CF25900BB26C5 /* Images.xcassets */,
@@ -218,6 +221,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4BF78BC71B0E7B650028FA12 /* CollectionViewCell.swift in Sources */,
 				4BF78BC31B0E4B280028FA12 /* ExposedLayout.swift in Sources */,
 				4BBAB5ED1B0CF25900BB26C5 /* ViewController.swift in Sources */,
 				4BBAB5EB1B0CF25900BB26C5 /* AppDelegate.swift in Sources */,
